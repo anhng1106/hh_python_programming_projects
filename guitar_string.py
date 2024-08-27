@@ -13,7 +13,7 @@ num_of_guitarString_needed = (num_gigs + num_gigs_same_setofString - 1) // num_g
 
 total_cost = guitarString_price * num_of_guitarString_needed
 
-print(f"The guitarist needs {num_of_guitarString_needed} new sets of guitar strings")
+print(f"\nThe guitarist needs {num_of_guitarString_needed} new sets of guitar strings")
 print(f"The total cost is {total_cost:.2f} euros")
 
 
